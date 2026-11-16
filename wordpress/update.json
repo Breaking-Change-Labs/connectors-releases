@@ -1,0 +1,17 @@
+{
+  "version": "0.1.0",
+  "release_url": "https://github.com/Breaking-Change-Labs/connectors-releases/releases/tag/wordpress-v0.1.0",
+  "requires_php": "7.4",
+  "requires_host": "5.8",
+  "tested_host": "7.1",
+  "assets": [
+    {
+      "name": "overlai-connector-0.1.0.zip",
+      "url": "https://github.com/Breaking-Change-Labs/connectors-releases/releases/download/wordpress-v0.1.0/overlai-connector-0.1.0.zip"
+    },
+    {
+      "name": "overlai-connector-0.1.0.zip.sha256",
+      "url": "https://github.com/Breaking-Change-Labs/connectors-releases/releases/download/wordpress-v0.1.0/overlai-connector-0.1.0.zip.sha256"
+    }
+  ]
+}
