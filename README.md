@@ -1,6 +1,9 @@
-# OverlAI connectors releases
+# Breaking Change Labs connectors releases
 
-This repository publishes the releases of the OverlAI connectors by Breaking Change Labs. The connectors link a customer's own systems to OverlAI: the WordPress plugin and the OpenCart extension let OverlAI read a site's public content and products, and Archive connects a firm's local document folders to Modus.
+This repository publishes the releases of the connectors by Breaking Change Labs. A connector links a customer's own systems to one of our products:
+
+- **WordPress plugin** and **OpenCart extension** let OverlAI read a site's public content and products.
+- **Archive** connects a firm's local document folders to Modus.
 
 The source code is developed in a private repository. Its release workflows publish each build here, so that sites and servers can download it without credentials.
 
@@ -11,11 +14,11 @@ The source code is developed in a private repository. Its release workflows publ
 
 ## Components
 
-| Component | Tag | Packages | Licence |
-| --- | --- | --- | --- |
-| WordPress plugin | `wordpress-v*` | `overlai-connector-<version>.zip` | GNU GPL, version 2 or later |
-| OpenCart extension | `opencart-v*` | `overlai_connector.ocmod.zip` (OpenCart 4), `overlai-connector-<version>-oc3.ocmod.zip` (OpenCart 3) | GNU GPL, version 3 or later |
-| Archive | `archive-v*` | MSI, `.pkg`, `.deb`, and `.rpm` per operating system and architecture | Proprietary, all rights reserved |
+| Component | Product | Tag | Packages | Licence |
+| --- | --- | --- | --- | --- |
+| WordPress plugin | OverlAI | `wordpress-v*` | `overlai-connector-<version>.zip` | GNU GPL, version 2 or later |
+| OpenCart extension | OverlAI | `opencart-v*` | `overlai_connector.ocmod.zip` (OpenCart 4), `overlai-connector-<version>-oc3.ocmod.zip` (OpenCart 3) | GNU GPL, version 3 or later |
+| Archive | Modus | `archive-v*` | MSI, `.pkg`, `.deb`, and `.rpm` per operating system and architecture | Proprietary, all rights reserved |
 
 Each plugin package carries the full text of its licence in `LICENSE`.
 
