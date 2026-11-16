@@ -1,0 +1,25 @@
+{
+  "version": "0.1.0",
+  "release_url": "https://github.com/Breaking-Change-Labs/connectors-releases/releases/tag/opencart-v0.1.0",
+  "requires_php": "7.4",
+  "requires_host": "3.0.3",
+  "tested_host": "4.1.0.4",
+  "assets": [
+    {
+      "name": "overlai-connector-0.1.0-oc3.ocmod.zip",
+      "url": "https://github.com/Breaking-Change-Labs/connectors-releases/releases/download/opencart-v0.1.0/overlai-connector-0.1.0-oc3.ocmod.zip"
+    },
+    {
+      "name": "overlai-connector-0.1.0-oc3.ocmod.zip.sha256",
+      "url": "https://github.com/Breaking-Change-Labs/connectors-releases/releases/download/opencart-v0.1.0/overlai-connector-0.1.0-oc3.ocmod.zip.sha256"
+    },
+    {
+      "name": "overlai_connector.ocmod.zip",
+      "url": "https://github.com/Breaking-Change-Labs/connectors-releases/releases/download/opencart-v0.1.0/overlai_connector.ocmod.zip"
+    },
+    {
+      "name": "overlai_connector.ocmod.zip.sha256",
+      "url": "https://github.com/Breaking-Change-Labs/connectors-releases/releases/download/opencart-v0.1.0/overlai_connector.ocmod.zip.sha256"
+    }
+  ]
+}
