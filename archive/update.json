@@ -1,0 +1,65 @@
+{
+  "version": "0.4.0",
+  "release_url": "https://github.com/Breaking-Change-Labs/connectors-releases/releases/tag/archive-v0.4.0",
+  "requires_php": "",
+  "requires_host": "",
+  "tested_host": "",
+  "assets": [
+    {
+      "name": "Archive-0.4.0-linux-arm64.deb",
+      "url": "https://github.com/Breaking-Change-Labs/connectors-releases/releases/download/archive-v0.4.0/Archive-0.4.0-linux-arm64.deb"
+    },
+    {
+      "name": "Archive-0.4.0-linux-arm64.deb.sha256",
+      "url": "https://github.com/Breaking-Change-Labs/connectors-releases/releases/download/archive-v0.4.0/Archive-0.4.0-linux-arm64.deb.sha256"
+    },
+    {
+      "name": "Archive-0.4.0-linux-arm64.rpm",
+      "url": "https://github.com/Breaking-Change-Labs/connectors-releases/releases/download/archive-v0.4.0/Archive-0.4.0-linux-arm64.rpm"
+    },
+    {
+      "name": "Archive-0.4.0-linux-arm64.rpm.sha256",
+      "url": "https://github.com/Breaking-Change-Labs/connectors-releases/releases/download/archive-v0.4.0/Archive-0.4.0-linux-arm64.rpm.sha256"
+    },
+    {
+      "name": "Archive-0.4.0-linux-x64.deb",
+      "url": "https://github.com/Breaking-Change-Labs/connectors-releases/releases/download/archive-v0.4.0/Archive-0.4.0-linux-x64.deb"
+    },
+    {
+      "name": "Archive-0.4.0-linux-x64.deb.sha256",
+      "url": "https://github.com/Breaking-Change-Labs/connectors-releases/releases/download/archive-v0.4.0/Archive-0.4.0-linux-x64.deb.sha256"
+    },
+    {
+      "name": "Archive-0.4.0-linux-x64.rpm",
+      "url": "https://github.com/Breaking-Change-Labs/connectors-releases/releases/download/archive-v0.4.0/Archive-0.4.0-linux-x64.rpm"
+    },
+    {
+      "name": "Archive-0.4.0-linux-x64.rpm.sha256",
+      "url": "https://github.com/Breaking-Change-Labs/connectors-releases/releases/download/archive-v0.4.0/Archive-0.4.0-linux-x64.rpm.sha256"
+    },
+    {
+      "name": "Archive-0.4.0-macos-arm64.pkg",
+      "url": "https://github.com/Breaking-Change-Labs/connectors-releases/releases/download/archive-v0.4.0/Archive-0.4.0-macos-arm64.pkg"
+    },
+    {
+      "name": "Archive-0.4.0-macos-arm64.pkg.sha256",
+      "url": "https://github.com/Breaking-Change-Labs/connectors-releases/releases/download/archive-v0.4.0/Archive-0.4.0-macos-arm64.pkg.sha256"
+    },
+    {
+      "name": "Archive-0.4.0-windows-arm64.msi",
+      "url": "https://github.com/Breaking-Change-Labs/connectors-releases/releases/download/archive-v0.4.0/Archive-0.4.0-windows-arm64.msi"
+    },
+    {
+      "name": "Archive-0.4.0-windows-arm64.msi.sha256",
+      "url": "https://github.com/Breaking-Change-Labs/connectors-releases/releases/download/archive-v0.4.0/Archive-0.4.0-windows-arm64.msi.sha256"
+    },
+    {
+      "name": "Archive-0.4.0-windows-x64.msi",
+      "url": "https://github.com/Breaking-Change-Labs/connectors-releases/releases/download/archive-v0.4.0/Archive-0.4.0-windows-x64.msi"
+    },
+    {
+      "name": "Archive-0.4.0-windows-x64.msi.sha256",
+      "url": "https://github.com/Breaking-Change-Labs/connectors-releases/releases/download/archive-v0.4.0/Archive-0.4.0-windows-x64.msi.sha256"
+    }
+  ]
+}
